@@ -1,0 +1,5 @@
+'C:\\Users\\crtjur\\Desktop\\jupyter-notebooks.git\\GlowPlug-Graph\\gp-data-1.txt', '6.98', '1027.22', '23.04', '6.70'
+'C:\\Users\\crtjur\\Desktop\\jupyter-notebooks.git\\GlowPlug-Graph\\gp-data-1.txt', '6.98', '1027.22', '23.04', '6.70'
+'C:\\Users\\crtjur\\Desktop\\jupyter-notebooks.git\\GlowPlug-Graph\\gp-data-1.txt', '6.98', '1027.22', '23.04', '6.70'
+'C:\\Users\\crtjur\\Desktop\\jupyter-notebooks.git\\GlowPlug-Graph\\gp-data-1.txt', '6.98', '1027.22', '23.04', '6.70'
+'C:\\Users\\crtjur\\Desktop\\jupyter-notebooks.git\\GlowPlug-Graph\\gp-data-1.txt', '6.98', '1027.22', '23.04', '6.70'
